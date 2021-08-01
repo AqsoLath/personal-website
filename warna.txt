@@ -1,0 +1,26 @@
+ef476f :pink
+ffd166 : kuning
+06d6a0 :hijau
+118ab2 :biru
+073b4c : biru donker
+
+
+#303841 : hitam gelap
+#3a4750 : hitam rada terang
+#f6c90e : emas
+#eeeeee : putih
+#ffffff : putih
+
+lw7wxDEcyHts@MKi3Nh5
+
+https://aqsha-portfolio.000webhostapp.com/
+
+Permisi semuanya, izin kirim projek portfolio saya. Bagi yang ada kritik, saran atupun yang mau maki-maki pasti saya terima.
+
+Ini merupakan projek pertama saya, yang bener-bener dibuat dari awal sampai di-upload ke web hosting.
+
+kendalanya adalah saya lupa beberapa syntax css dan javascript, karena ini merupakan projek yang saya gunakan untuk latihan kembali front end, setelah saya belajar tentang back end.
+
+Untuk pembuatan websitenya menggunakan HTML, CSS, Bootstrap, Javascript, jQuery(nyomot dari stackoverflow), dan sedikit PHP untuk form contact me.
+
+Terima kasih, sebelumnya.
